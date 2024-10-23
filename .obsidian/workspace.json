@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acta-de-reunion-1.md",
+                "file": "actas_de_reunion/acta-de-reunion-23-10-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "acta-de-reunion-23-10-24"
+            }
+          },
+          {
+            "id": "ad76614bc894a641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "actas_de_reunion/acta-de-reunion-23-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "acta-de-reunion-23-10-24"
             }
           }
         ]
@@ -39,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -93,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de acta-de-reunion-1"
             }
           },
           {
@@ -105,7 +129,9 @@
                 "file": "acta-de-reunion-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de acta-de-reunion-1"
             }
           },
           {
@@ -116,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -126,7 +154,9 @@
               "type": "outline",
               "state": {
                 "file": "acta-de-reunion-1.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de acta-de-reunion-1"
             }
           }
         ]
@@ -147,5 +177,13 @@
     }
   },
   "active": "81aafb6562d08203",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "diagramas/Diagrama-de-conceptos - Page 1.pdf",
+    "actas_de_reunion/acta-de-reunion-17-10-24.md",
+    "actas_de_reunion/acta-de-reunion-23-10-24.md",
+    "actas_de_reunion",
+    "README.md",
+    "Repaso temas.md",
+    "diagramas"
+  ]
 }
