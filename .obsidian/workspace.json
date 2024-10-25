@@ -11,14 +11,12 @@
             "id": "81aafb6562d08203",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "actas_de_reunion/acta-de-reunion-23-10-24.md",
-                "mode": "source",
-                "source": false
+                "file": "Captura de pantalla 2024-10-18 a la(s) 2.59.59 p.m..png"
               },
-              "icon": "lucide-file",
-              "title": "acta-de-reunion-23-10-24"
+              "icon": "lucide-image",
+              "title": "Captura de pantalla 2024-10-18 a la(s) 2.59.59 p.m."
             }
           },
           {
@@ -178,11 +176,11 @@
   },
   "active": "81aafb6562d08203",
   "lastOpenFiles": [
+    "actas_de_reunion/acta-de-reunion-17-10-24.md",
+    "actas_de_reunion/acta-de-reunion-23-10-24.md",
     "Variable.cpp",
     "Captura de pantalla 2024-10-18 a la(s) 2.59.59 p.m..png",
     "diagramas/Diagrama-de-conceptos - Page 1.pdf",
-    "actas_de_reunion/acta-de-reunion-17-10-24.md",
-    "actas_de_reunion/acta-de-reunion-23-10-24.md",
     "actas_de_reunion",
     "README.md",
     "Repaso temas.md",
