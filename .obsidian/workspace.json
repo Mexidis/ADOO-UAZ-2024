@@ -11,12 +11,12 @@
             "id": "81aafb6562d08203",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Captura de pantalla 2024-10-18 a la(s) 2.59.59 p.m..png"
+                "file": "diagramas/Diagrama-de-conceptos - Page 1.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Captura de pantalla 2024-10-18 a la(s) 2.59.59 p.m."
+              "icon": "lucide-file-text",
+              "title": "Diagrama-de-conceptos - Page 1"
             }
           },
           {
@@ -176,6 +176,13 @@
   },
   "active": "81aafb6562d08203",
   "lastOpenFiles": [
+    "Entregables/DocumentacionADOO.pdf",
+    "Entregables/DocumentacionADOO.pdf.crdownload",
+    "Entregables",
+    "Nueva carpeta",
+    "actas_de_reunion/edit",
+    "actas_de_reunion/acta-de-reunion-25-10-24.md",
+    "actas_de_reunion/Copia de acta-de-reunion-25-10-24.md",
     "actas_de_reunion/acta-de-reunion-17-10-24.md",
     "actas_de_reunion/acta-de-reunion-23-10-24.md",
     "Variable.cpp",
