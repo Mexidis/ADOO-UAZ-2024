@@ -1,8 +1,9 @@
 ### Minuta de Reunión
 
 **Fecha:** 17 de octubre de 2024  
-**Hora:** 18:00 hrs  
-**Lugar:** Sala de reuniones virtual
+**Hora:** 12:00 hrs  
+**Lugar:** Sala de estudiantes
+
 
 #### Asistentes:
 
@@ -11,7 +12,7 @@
 
 #### Puntos tratados:
 
-1. **Revisión inicial del sistema de estadísticas deportivas:**
+1. **segunda revisión :**
     - Se presentó una visión general del sistema que permitirá el seguimiento y análisis de estadísticas deportivas.
     - Se discutieron los componentes principales que incluirá el sistema, destacando la necesidad de definir los casos de uso más específicos.
       
@@ -28,4 +29,6 @@
 
 - Patrick preparará una lista preliminar de los casos de uso para ser revisada y discutida en la próxima sesión.
 
-La reunión concluyó a las ~19:10 hrs.
+La reunión concluyó a las ~2:20 hr
+El acuerdo es que no se com se puede
+
