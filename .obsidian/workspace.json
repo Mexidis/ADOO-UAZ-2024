@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minutas/acta-de-reunion-18-11-24.md",
+                "file": "Minutas/acta-de-reunion-17-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "acta-de-reunion-18-11-24"
+              "title": "acta-de-reunion-17-10-24"
             }
           }
         ]
@@ -164,11 +164,24 @@
   },
   "active": "09e27b9d346784cf",
   "lastOpenFiles": [
+    "CasosDeUso/Casos-de-uso-2v.png",
+    "CasosDeUso/ADOO - Página 1.png",
+    "DiagramasVarios/diagramas/Diagrama-de-conceptos - Page 1.pdf",
+    "DiagramasVarios/diagramas",
+    "DiagramasVarios",
+    "Minutas/acta-de-reunion-28-11-24.md",
+    "Minutas/acta-de-reunion-24-11-24.md",
+    "Minutas/acta-de-reunion-23-10-24.md",
     "Minutas/acta-de-reunion-17-10-24.md",
-    "Minutas/acta-de-reunion-18-11-24.md",
-    "Minutas/plantilla-minuta.md",
     "Minutas/acta-de-reunion-16-11-24.md",
+    "Minutas/27-10-24.md",
+    "Minutas/acta-de-reunion-18-11-24.md",
+    "Minutas/acta-de-reunion-27-11-24.md",
+    "Minutas/acta-de-reunion-26-11-24.md",
+    "Minutas/acta-de-reunion-25-10-24.md",
+    "Minutas/acta-de-reunion-24-11-24 - copia.md",
     "Minutas/ acta-de-reunion-5-11-24.md",
+    "Minutas/plantilla-minuta.md",
     "Entregables/DocumentacionADOO.pdf",
     "Entregables/DocumentacionADOO.pdf.crdownload",
     "Entregables",
@@ -181,9 +194,7 @@
     "Variable.cpp",
     "Captura de pantalla 2024-10-18 a la(s) 2.59.59 p.m..png",
     "diagramas/Diagrama-de-conceptos - Page 1.pdf",
-    "actas_de_reunion",
     "README.md",
-    "Repaso temas.md",
-    "diagramas"
+    "Repaso temas.md"
   ]
 }

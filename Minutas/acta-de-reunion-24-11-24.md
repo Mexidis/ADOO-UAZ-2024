@@ -17,6 +17,6 @@ Con toda la información que e recopilado, ahora ya puedo dar una buena implemen
      
 #### Tareas pendientes:
 
-- **Patrick** Se esta. Encargando de desarrollar de buena forma los diagramas y casos de uso .
+- **Patrick** Se está. Encargando de desarrollar de una manera óptima los diagramas y casos de uso.
 - Víctor** seguirá investigando conceptos y puntos clave en diapositivas.
 La reunión concluyó a las ~ 16:23 hrs.
